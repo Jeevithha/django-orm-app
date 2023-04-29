@@ -44,7 +44,13 @@ class EmployeeAdmin(admin.ModelAdmin): list_display=
 Include your code here
 ```
 ## OUTPUT
-![image](https://user-images.githubusercontent.com/123623197/232503718-598e0283-5af0-43cb-8fcf-81dce37d7003.png)
+Server Output:
+
+![image](https://user-images.githubusercontent.com/123623197/235316746-a0e8406d-5d31-47d4-80a2-75c0717ff0d6.png)
+
+Client Output:
+
+![image](https://user-images.githubusercontent.com/123623197/235316737-10303e10-d10c-46f7-a0c5-bdb9aa929a7a.png)
 
 Include the screenshot of your admin page.
 
